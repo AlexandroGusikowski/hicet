@@ -1,0 +1,32 @@
+{
+  "name": "hicet",
+  "version": "1.0.0",
+  "description": "Enables bundled Webpack Typescript declarations from exports.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandroGusikowski/hicet.git"
+  },
+  "keywords": [
+    "eum",
+    "atque",
+    "webpack",
+    "plugin",
+    "decleration",
+    "consequatur",
+    "export",
+    "aut",
+    "bundle"
+  ],
+  "author": "BrayanHammes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandroGusikowski/hicet.git/issues"
+  },
+  "dependencies": {
+    "dts-bundle": "^0.7.2",
+    "esprima": "^3.1.3",
+    "js-beautify": "^1.6.12",
+    "proxyquire": "^1.8.0"
+  }
+}
